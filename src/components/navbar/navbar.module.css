@@ -23,8 +23,8 @@
   align-items: center;
   flex: 1;
   gap: 20px;
+  justify-content: end;
 }
-
 
 @media screen and (max-width: 1200px) {
   .logo {
